@@ -4,6 +4,8 @@ I am on the way to become a Web Developer :)
 
 🌱 I’m currently learning HTML, CSS and Javascript :)
 
+![Dog](https://user-images.githubusercontent.com/98124965/180802437-e434eafa-cc56-490e-b6e4-ff225b691bbb.jpg)
+
 
 
 <!--
