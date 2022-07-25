@@ -6,7 +6,7 @@ I am on the way to become a Web Developer :)
 
 ![Stalker](https://user-images.githubusercontent.com/98124965/180802437-e434eafa-cc56-490e-b6e4-ff225b691bbb.jpg)
 
-My aims:
+My aims are:
 <ul>
 <li>Finalize Web Development Bootcamp</li>
 <li>Find a Remote Job</li>
