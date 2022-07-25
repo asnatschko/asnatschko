@@ -4,9 +4,6 @@ I am on the way to become a Web Developer :)
 
 🌱 I’m currently learning HTML, CSS and Javascript :)
 
-⚡ Fun fact
-![0-02-05-1babfadd2fee9167310bbdda11775424fef053f776d4680623950da48f1c704c_1e5521693b85deaa](https://user-images.githubusercontent.com/98124965/180792407-7c4c5724-abd1-44da-a703-fc4393b60da4.jpg)
-
 
 
 <!--
