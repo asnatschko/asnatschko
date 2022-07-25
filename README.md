@@ -2,6 +2,8 @@
 
 I am on the way to become a Web Developer :)
 
+🌱 I’m currently learning HTML, CSS and Javascript :)
+
 <!--
 **asnatschko/asnatschko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
