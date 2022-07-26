@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am on the way to become a Web Developer :)
+I am on the way to become a Web Developer :)  
 
-🌱 I’m currently learning HTML, CSS and Javascript :)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,mongodb,nodejs,html,css,figma,)](https://skills.thijs.gg)
 
 [![asnatschko's github stats](https://github-readme-stats.vercel.app/api?username=asnatschko&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) 
 
