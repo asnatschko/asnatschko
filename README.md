@@ -10,7 +10,7 @@ I am on the way to become a Web Developer :)
 
 My aims are:
 <ul>
-<li style="list-style: inside">Finalize Web Development Bootcamp</li>
+<li style="list-style: square">Finalize Web Development Bootcamp</li>
 <li>Find a Remote Job</li>
 </ul>
 
