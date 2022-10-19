@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am on the way to become a Web Developer :)  
+Nice to meet you here :)  
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,mongodb,nodejs,html,css,figma,)](https://skills.thijs.gg)
 
