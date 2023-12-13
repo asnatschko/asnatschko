@@ -8,11 +8,6 @@ Nice to meet you here :)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asnatschko&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-My aims are:
-<ul>
-<li style="list-style: square">Finalize Web Development Bootcamp</li>
-<li>Find a Remote Job</li>
-</ul>
 
 <!--
 **asnatschko/asnatschko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
